@@ -1,0 +1,9 @@
+@media screen and (max-width: 688px) {
+    .sr {
+        flex-direction: column;
+    }
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
